@@ -3,7 +3,8 @@
 | [日本語](https://github.com/siyukatu/MCHeadImage/blob/main/README.md) |
 | ----- |
 ## Description
-Bedrock support<br>
+You can get face parts from Minecraft skin.<br>
+Bedrock supported.<br>
 This code is a partially modified version of the one used on siyukatu.com.<br>
 You are free to use it, but please do not make your own statements.<br>
 You may or may not credit me (though I would like you to if you can).<br>
