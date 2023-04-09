@@ -1,4 +1,7 @@
 # MCHeadImage
+## Another language
+| [English](https://github.com/siyukatu/MCHeadImage/blob/main/README_en.md) |
+| ----- |
 ## 説明
 統合版対応です。<br>
 このコードは、siyukatu.comで使用しているものを一部改変したものです。<br>
