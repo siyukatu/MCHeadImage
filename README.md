@@ -1,7 +1,7 @@
 # MCHeadImage
 ## Another language
-| [English](https://github.com/siyukatu/MCHeadImage/blob/main/README_en.md) |
-| ----- |
+|[English🇺🇸](https://github.com/siyukatu/MCHeadImage/blob/main/README_en.md)|日本語🇯🇵|
+| ----- | ----- |
 ## 説明
 マイクラスキンの顔部分を取得できます。<br>
 統合版対応です。<br>
