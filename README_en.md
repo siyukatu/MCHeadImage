@@ -1,6 +1,6 @@
 # MCHeadImage
 ## Another language
-| [日本語](https://github.com/siyukatu/MCHeadImage/blob/main/README.md) |
+| English🇺🇸 | [日本語🇯🇵](https://github.com/siyukatu/MCHeadImage/blob/main/README.md) |
 | ----- |
 ## Description
 You can get face parts from Minecraft skin.<br>
